@@ -1,0 +1,2 @@
+2025-07-22 15:10:17.909 | INFO     | utils.log_manager:wrapper:38 - test_logger 当前开始执行
+2025-07-22 15:10:17.909 | SUCCESS  | utils.log_manager:wrapper:45 - test_logger 执行成功，耗时: 5.3882598876953125e-05ms

@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1","test_logger","testcases","Tue Jul 22 15:10:17 CST 2025","passed","Tue Jul 22 15:10:17 CST 2025","TestLogger","test_logger","",""
+"","2954","test_login[13798042717-a2267282995]","testcases","Tue Jul 22 15:10:21 CST 2025","passed","Tue Jul 22 15:10:23 CST 2025","TestDemo","test_open","",""
+"","1257","test_login[13798042717-a226728]","testcases","Tue Jul 22 15:10:23 CST 2025","passed","Tue Jul 22 15:10:25 CST 2025","TestDemo","test_open","",""
